@@ -1,0 +1,10 @@
+C:\Users\冯文豪\source\repos\program1\program2\bin\Debug\program2.exe.config
+C:\Users\冯文豪\source\repos\program1\program2\bin\Debug\program2.exe
+C:\Users\冯文豪\source\repos\program1\program2\bin\Debug\program2.pdb
+C:\Users\冯文豪\source\repos\program1\program2\obj\Debug\program2.csprojAssemblyReference.cache
+C:\Users\冯文豪\source\repos\program1\program2\obj\Debug\program2.Form1.resources
+C:\Users\冯文豪\source\repos\program1\program2\obj\Debug\program2.Properties.Resources.resources
+C:\Users\冯文豪\source\repos\program1\program2\obj\Debug\program2.csproj.GenerateResource.cache
+C:\Users\冯文豪\source\repos\program1\program2\obj\Debug\program2.csproj.CoreCompileInputs.cache
+C:\Users\冯文豪\source\repos\program1\program2\obj\Debug\program2.exe
+C:\Users\冯文豪\source\repos\program1\program2\obj\Debug\program2.pdb
