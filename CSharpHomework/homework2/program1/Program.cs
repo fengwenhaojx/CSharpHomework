@@ -17,7 +17,7 @@ namespace program1
             if (vaild)
             {
                 Console.WriteLine("Its prime factors are: ");
-                for (int i = 1; i <= num; i++)
+                for (int i = 2; i <= num; i++)
                 {
                     if (IsPrimeOrNot(i) && num % i == 0)
                         Console.Write(i + " ");
